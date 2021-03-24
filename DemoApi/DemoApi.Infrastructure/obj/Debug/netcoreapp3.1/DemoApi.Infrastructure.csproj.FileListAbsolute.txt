@@ -1,0 +1,28 @@
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Core.dll
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.csprojAssemblyReference.cache
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.AssemblyInfoInputs.cache
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.AssemblyInfo.cs
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Infrastructure.deps.json
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Infrastructure.runtimeconfig.json
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Infrastructure.runtimeconfig.dev.json
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Infrastructure.dll
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Infrastructure.pdb
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Core.pdb
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.csproj.CopyComplete
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.dll
+H:\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.pdb
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Infrastructure.deps.json
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Infrastructure.runtimeconfig.json
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Infrastructure.runtimeconfig.dev.json
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Infrastructure.dll
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Infrastructure.pdb
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Core.dll
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\bin\Debug\netcoreapp3.1\DemoApi.Core.pdb
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.csprojAssemblyReference.cache
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.AssemblyInfoInputs.cache
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.AssemblyInfo.cs
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.csproj.CopyComplete
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.dll
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.pdb
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Infrastructure\obj\Debug\netcoreapp3.1\DemoApi.Infrastructure.genruntimeconfig.cache

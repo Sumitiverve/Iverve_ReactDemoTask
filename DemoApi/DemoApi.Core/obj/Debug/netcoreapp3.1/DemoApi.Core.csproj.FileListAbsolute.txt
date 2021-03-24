@@ -1,0 +1,17 @@
+H:\React_Demo\DemoApi\DemoApi.Core\bin\Debug\netcoreapp3.1\DemoApi.Core.deps.json
+H:\React_Demo\DemoApi\DemoApi.Core\bin\Debug\netcoreapp3.1\DemoApi.Core.dll
+H:\React_Demo\DemoApi\DemoApi.Core\bin\Debug\netcoreapp3.1\DemoApi.Core.pdb
+H:\React_Demo\DemoApi\DemoApi.Core\obj\Debug\netcoreapp3.1\DemoApi.Core.csprojAssemblyReference.cache
+H:\React_Demo\DemoApi\DemoApi.Core\obj\Debug\netcoreapp3.1\DemoApi.Core.AssemblyInfoInputs.cache
+H:\React_Demo\DemoApi\DemoApi.Core\obj\Debug\netcoreapp3.1\DemoApi.Core.AssemblyInfo.cs
+H:\React_Demo\DemoApi\DemoApi.Core\obj\Debug\netcoreapp3.1\DemoApi.Core.dll
+H:\React_Demo\DemoApi\DemoApi.Core\obj\Debug\netcoreapp3.1\DemoApi.Core.pdb
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Core\bin\Debug\netcoreapp3.1\DemoApi.Core.deps.json
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Core\bin\Debug\netcoreapp3.1\DemoApi.Core.dll
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Core\bin\Debug\netcoreapp3.1\DemoApi.Core.pdb
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Core\obj\Debug\netcoreapp3.1\DemoApi.Core.csprojAssemblyReference.cache
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Core\obj\Debug\netcoreapp3.1\DemoApi.Core.AssemblyInfoInputs.cache
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Core\obj\Debug\netcoreapp3.1\DemoApi.Core.AssemblyInfo.cs
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Core\obj\Debug\netcoreapp3.1\DemoApi.Core.csproj.CoreCompileInputs.cache
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Core\obj\Debug\netcoreapp3.1\DemoApi.Core.dll
+D:\Sumit Goswami\Demo\React_Demo\DemoApi\DemoApi.Core\obj\Debug\netcoreapp3.1\DemoApi.Core.pdb
